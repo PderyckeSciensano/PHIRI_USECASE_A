@@ -23,3 +23,5 @@ Jupyter+R: Binder will automatically display the analytical scripts ready for ex
 RStudio: Go in the Use case folder and open the file with .rmd extension.
 
 ---
+
+More information on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7243716.svg)](https://doi.org/10.5281/zenodo.7243716)
