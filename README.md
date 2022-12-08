@@ -6,7 +6,7 @@ PHIRI is the roll-out of the research infrastructure on population health inform
 *Research question:*
 Has the COVID19 pandemic changed existing patterns of non-COVID-19 health care utilisation and mortality for vulnerable populations within and between countries? This is based around answering the indirect effects of the pandemic on population health.
 
-## Cohort description:
+*Cohort description:*
 Any patients 18 years old or older, with a hospital episode with a main diagnosis of any of the conditions included in the cohort definition (i.e. heart attack, stroke, hip or knee replacements, or severe trauma) from 2019-01-01 until today.
 
 # Analytical script
