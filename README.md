@@ -16,7 +16,7 @@ Any patients 18 years old or older, with a hospital episode with a main diagnosi
 [![Binder](http://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/PderyckeSciensano/PHIRI_USECASE_A/HEAD?labpath=UsecaseA.ipynb)
 Jupyter+R: Binder will automatically display the analytical scripts ready for execution. 
 
-## Rmarkdowns for accessing PHIRI use cases
+### Rmarkdowns for accessing PHIRI use cases
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/PderyckeSciensano/PHIRI_USECASE_A/HEAD?urlpath=rstudio)
 RStudio: Go in the Use case folder and open the file with .rmd extension.
