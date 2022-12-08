@@ -4,7 +4,7 @@ PHIRI is the roll-out of the research infrastructure on population health inform
 
 # Jupyter notebooks for accessing PHIRI use cases
 
-Jupyter+R: [![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/PderyckeSciensano/PHIRI_USECASE_A/HEAD?labpath=UsecaseA.ipynb)
+Jupyter+R: [![Binder]([https://notebooks.gesis.org/binder/badge.svg](http://mybinder.org/badge_logo.svg))](https://notebooks.gesis.org/binder/v2/gh/PderyckeSciensano/PHIRI_USECASE_A/HEAD?labpath=UsecaseA.ipynb)
 
 
 # Rmarkdowns for accessing PHIRI use cases
