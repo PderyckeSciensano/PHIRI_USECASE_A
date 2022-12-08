@@ -4,12 +4,10 @@ PHIRI is the roll-out of the research infrastructure on population health inform
 
 # Jupyter notebooks for accessing PHIRI use cases
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/PderyckeSciensano/PHIRI_USECASE_A/HEAD?labpath=UsecaseA.ipynb)
-
+[![Binder](http://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/PderyckeSciensano/PHIRI_USECASE_A/HEAD?labpath=UsecaseA.ipynb)
+Jupyter+R: Binder will automatically display the analytical scripts ready for execution. 
 
 # Rmarkdowns for accessing PHIRI use cases
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/PderyckeSciensano/PHIRI_USECASE_A/HEAD?urlpath=rstudio)
-
-
-_
+[![Binder](http://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/PderyckeSciensano/PHIRI_USECASE_A/HEAD?urlpath=rstudio)
+RStudio: Go in the Use case folder and open the file with .rmd extension.
